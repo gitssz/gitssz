@@ -13,8 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->![moira](https://user-images.githubusercontent.com/83583240/195595781-feebdc52-d059-42bb-a470-903475793264.gif)
-
-
+-->
+![moira](https://user-images.githubusercontent.com/83583240/195596533-7e4c6183-54ba-4506-975c-0e554dc40d0d.gif)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitssz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
