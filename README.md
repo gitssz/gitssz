@@ -21,13 +21,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning web development.
 - 🎵 I'm a melomanic 
 
-⚒️ Languages and Tools
-
-<div>
-<ion-icon name="logo-html5"></ion-icon>
-<ion-icon name="logo-css3"></ion-icon>
-<ion-icon name="logo-nodejs"></ion-icon>  
-</div>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitssz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
