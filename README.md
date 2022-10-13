@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!-https://media.giphy.com/media/2sh4M35xLbCpdBn7gL/giphy.gif-->
+
+https://media.giphy.com/media/26gYCFcNenajfsnVC/giphy.gif
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitssz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
