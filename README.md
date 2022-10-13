@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-https://media.giphy.com/media/2sh4M35xLbCpdBn7gL/giphy.gif-->
-
-https://media.giphy.com/media/26gYCFcNenajfsnVC/giphy.gif
+<iframe src="https://giphy.com/embed/PQw9njOt7B1kFddeqj" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/schittscreek-schitts-creek-poptv-PQw9njOt7B1kFddeqj">via GIPHY</a></p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitssz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
