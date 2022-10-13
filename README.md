@@ -1,12 +1,10 @@
-### Hi there 👋
-
+### Hey, I'm Gitanjali!
 <!--
 **gitssz/gitssz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,6 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![moira](https://user-images.githubusercontent.com/83583240/195596533-7e4c6183-54ba-4506-975c-0e554dc40d0d.gif)
+
+
+
+![moira2](https://user-images.githubusercontent.com/83583240/195600152-588084ce-0e03-4dad-a9d0-5db23ce5ebe4.gif)
+
+
+- 🌱 I’m currently learning web development.
+- 🎵 I'm a melomanic 
+
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitssz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
