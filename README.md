@@ -20,8 +20,9 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’m currently learning web development.
-- 🎵 I'm a melomanic 
+- 🎵 A melomanic 
 
 
-
+<!-- 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gitssz&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+ -->
