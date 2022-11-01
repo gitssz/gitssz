@@ -14,10 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-![moira2](https://user-images.githubusercontent.com/83583240/195600152-588084ce-0e03-4dad-a9d0-5db23ce5ebe4.gif)
-
+![moiraW](https://user-images.githubusercontent.com/83583240/199299731-82b9b35a-af4a-4700-8857-1364554ea561.gif)
 
 <!-- - 🌱 I’m currently learning web development.
 - 🎵 A melomanic 
