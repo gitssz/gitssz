@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- <img src="https://www.pluralsight.com/" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> -->
-<h1 align="center">Hi , I'm Gitanjali</h1>
+<h1 align="center">Hi , I'm Gitanjali!</h1>
 <h3 align="center">A passionate web developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitssz&label=Profile%20views&color=0e75b6&style=flat" alt="gitssz" /> </p>
