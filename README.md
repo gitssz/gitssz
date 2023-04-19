@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://www.pluralsight.com/" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+<!-- <img src="https://www.pluralsight.com/" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen> -->
 <h1 align="center">Hi , I'm Gitanjali</h1>
 <h3 align="center">A passionate web developer</h3>
 
