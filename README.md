@@ -4,7 +4,7 @@
 <h1 align="center">Hi
  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35px" width="35px">
  , I'm Gitanjali!</h1>
-<h3 align="center">A aspiring Web developer</h3>
+<h3 align="center">An aspiring Web developer</h3>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitssz" alt="gitssz" /></a> </p> -->
 
